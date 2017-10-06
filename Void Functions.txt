@@ -1,0 +1,11 @@
+A void function doesn't return anything.
+Can also be referred to as a method
+void is a return type
+Start and Update normally have a return type of void
+A return type that doesn't return anything
+Can be used as a function argument, function return value, and generic data pointer
+Function argument - function doesn't take anything
+Function return value - function doesn't return anything
+Generic data pointer - can't be dereferenced
+void means "no value"
+Can be public or private
